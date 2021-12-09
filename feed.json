@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Go Canyoning Costa Rica",
     "description": "",
-    "home_page_url": "https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web",
-    "feed_url": "https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web/feed.json",
+    "home_page_url": "https://crcanyonspreview.semanticsecurity.org",
+    "feed_url": "https://crcanyonspreview.semanticsecurity.org/feed.json",
     "user_comment": "",
     "author": {
         "name": "Pedro Guzmán"
     },
     "items": [
         {
-            "id": "https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web/ruta-medio-puente/index.html",
-            "url": "https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web/ruta-medio-puente/index.html",
+            "id": "https://crcanyonspreview.semanticsecurity.org/ruta-medio-puente/index.html",
+            "url": "https://crcanyonspreview.semanticsecurity.org/ruta-medio-puente/index.html",
             "title": "Ruta: Medio Puente",
             "summary": "Este es un placeholder para la reseña sobre la ruta Medio Puente ",
             "content_html": "<p>Este es un placeholder para la reseña sobre la ruta Medio Puente</p>\n",

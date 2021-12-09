@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Go Canyoning Costa Rica</title>
-    <link href="https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web/feed.xml" rel="self" />
-    <link href="https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web" />
+    <link href="https://crcanyonspreview.semanticsecurity.org/feed.xml" rel="self" />
+    <link href="https://crcanyonspreview.semanticsecurity.org" />
     <updated>2021-12-08T10:41:48-06:00</updated>
     <author>
         <name>Pedro Guzmán</name>
     </author>
-    <id>https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web</id>
+    <id>https://crcanyonspreview.semanticsecurity.org</id>
 
     <entry>
         <title>Ruta: Medio Puente</title>
         <author>
             <name>Pedro Guzmán</name>
         </author>
-        <link href="https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web/ruta-medio-puente/index.html"/>
-        <id>https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web/ruta-medio-puente/index.html</id>
+        <link href="https://crcanyonspreview.semanticsecurity.org/ruta-medio-puente/index.html"/>
+        <id>https://crcanyonspreview.semanticsecurity.org/ruta-medio-puente/index.html</id>
             <category term="Ruta Valle Central"/>
 
         <updated>2021-12-08T10:41:48-06:00</updated>
