@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Go Canyoning Costa Rica",
+    "description": "",
+    "home_page_url": "https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web",
+    "feed_url": "https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Pedro Guzmán"
+    },
+    "items": [
+        {
+            "id": "https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web/ruta-medio-puente/index.html",
+            "url": "https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web/ruta-medio-puente/index.html",
+            "title": "Ruta: Medio Puente",
+            "summary": "Este es un placeholder para la reseña sobre la ruta Medio Puente ",
+            "content_html": "<p>Este es un placeholder para la reseña sobre la ruta Medio Puente</p>\n",
+            "author": {
+                "name": "Pedro Guzmán"
+            },
+            "tags": [
+                   "Ruta Valle Central"
+            ],
+            "date_published": "2021-12-08T10:41:07-06:00",
+            "date_modified": "2021-12-08T10:41:48-06:00"
+        }
+    ]
+}

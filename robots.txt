@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://go-canyoning-costa-rica.github.io/cr.gocanyoning.web/sitemap.xml
