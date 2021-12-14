@@ -3,12 +3,93 @@
     <title>Go Canyoning Costa Rica</title>
     <link href="https://crcanyonspreview.semanticsecurity.org/feed.xml" rel="self" />
     <link href="https://crcanyonspreview.semanticsecurity.org" />
-    <updated>2021-12-08T10:41:48-06:00</updated>
+    <updated>2021-12-13T22:36:14-06:00</updated>
     <author>
         <name>Pedro Guzmán</name>
     </author>
     <id>https://crcanyonspreview.semanticsecurity.org</id>
 
+    <entry>
+        <title>Ejemplo</title>
+        <author>
+            <name>Pedro Guzmán</name>
+        </author>
+        <link href="https://crcanyonspreview.semanticsecurity.org/ejemplo/index.html"/>
+        <id>https://crcanyonspreview.semanticsecurity.org/ejemplo/index.html</id>
+
+        <updated>2021-12-13T22:36:14-06:00</updated>
+            <summary>
+                <![CDATA[
+                     Esto es un ejemplo 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Esto es un ejemplo
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Equipo de Canyoning</title>
+        <author>
+            <name>Pedro Guzmán</name>
+        </author>
+        <link href="https://crcanyonspreview.semanticsecurity.org/equipo-de-canyoning/index.html"/>
+        <id>https://crcanyonspreview.semanticsecurity.org/equipo-de-canyoning/index.html</id>
+            <category term="Gear"/>
+            <category term="Equipo"/>
+
+        <updated>2021-12-13T20:03:09-06:00</updated>
+            <summary>
+                <![CDATA[
+                     Este es un artículo que va a contener información acerca del equipo necesario para realizar canyoning en Costa Rica Cuerdas 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Este es un artículo que va a contener información acerca del equipo necesario para realizar canyoning en Costa Rica
+  </p>
+<div><ul>
+<li><a href='#'>Cuerdas<a></li>
+</ul></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cuerdas para canyoning</title>
+        <author>
+            <name>Pedro Guzmán</name>
+        </author>
+        <link href="https://crcanyonspreview.semanticsecurity.org/cuerdas-para-canyoning-en-costa-rica/index.html"/>
+        <id>https://crcanyonspreview.semanticsecurity.org/cuerdas-para-canyoning-en-costa-rica/index.html</id>
+            <category term="Technora"/>
+            <category term="Ropes"/>
+            <category term="Cuerdas"/>
+            <category term="Bluewater"/>
+            <category term="Aramida"/>
+
+        <updated>2021-12-13T22:31:35-06:00</updated>
+            <summary>
+                <![CDATA[
+                     En este artículo se va a agregar información detallada sobre las cuerdas para canyoning y las más recomendadas para las condiciones de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    En este artículo se va a agregar información detallada sobre las cuerdas para canyoning y las más recomendadas para las condiciones de los cañones en Costa Rica.&nbsp;
+  </p>
+<pre class="line-numbers  language-html"><code>&lt;table&gt;
+&lt;/table&gt;</code></pre>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ruta: Medio Puente</title>
         <author>
